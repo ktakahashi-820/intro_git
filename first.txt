@@ -1,1 +1,2 @@
 Training of Git
+passwordは廃止。tokenを使う。
