@@ -2,3 +2,4 @@ Training of Git
 passwordは廃止。tokenを使う。
 git rm
 git status
+git diff
